@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa7dd3b5-4fc0-4cf9-a913-3be62c4fc79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationEngineering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/ActivateEarthPressure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/StaticEarthPressure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/WallBackFilling.java" afterDir="false" />
+    <list default="true" id="fa7dd3b5-4fc0-4cf9-a913-3be62c4fc79b" name="Changes" comment="增加:計算單位面積主動土壓力、計算主動土壓力合力">
+      <change afterPath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/Backfill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/RetainingWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engineering/foundation/retainingwall/WallBackFilling.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +20,26 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jim8764952&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="49bdd755-cc46-4ea7-8b0a-0adb76e6c7d8" />
+        <option name="url" value="https://github.com/jim8764952/FoundationEngineering.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -150,11 +158,26 @@
       <workItem from="1714476888661" duration="6908000" />
       <workItem from="1714633880780" duration="4153000" />
       <workItem from="1715740766915" duration="2467000" />
-      <workItem from="1716338468054" duration="670000" />
+      <workItem from="1716338468054" duration="2535000" />
+      <workItem from="1716387287785" duration="903000" />
+      <workItem from="1716697247099" duration="2573000" />
     </task>
+    <task id="LOCAL-00001" summary="增加:計算單位面積主動土壓力、計算主動土壓力合力">
+      <option name="closed" value="true" />
+      <created>1716339460816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716339460816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加:計算單位面積主動土壓力、計算主動土壓力合力" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加:計算單位面積主動土壓力、計算主動土壓力合力" />
   </component>
 </project>
