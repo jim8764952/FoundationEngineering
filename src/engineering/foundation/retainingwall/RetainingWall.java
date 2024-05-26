@@ -1,8 +1,9 @@
 package engineering.foundation.retainingwall;
 
 public interface RetainingWall {
-    enum style {
+     enum style {
         Cantilever,
+        Gravity,
     };
     double wallTotalHeight = 0;
     double toeSoilHeight = 0;
